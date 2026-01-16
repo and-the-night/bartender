@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Brandy Alexander",
+        "ingredients": [
+            "1 oz Brandy",
+            "1 oz Dark Creme de Cacao",
+            "1 oz Heavy Cream",
+            "Mix with Ice",
+            "Cinnamon or Nutmeg for garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/mlyk1i1606772340.jpg"
+    },
+    {
+        "name": "Banshee",
+        "ingredients": [
+            "1 oz White Creme de Cacao",
+            "1 oz Banana Liqueur",
+            "1 oz Heavy Cream",
+            "Mix with Ice"
+        ]
+    },
+    {
+        "name": "Grasshopper",
+        "ingredients": [
+            "1 oz Green Creme de Menthe",
+            "1 oz White Creme de Cacao",
+            "1 oz Heavy Cream",
+            "Mix with Ice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg"
+    },
+    {
+        "name": "Pink Squirrel",
+        "ingredients": [
+            "1 oz White Creme de Cacao",
+            "1 oz Creme de Almond",
+            "1 oz Heavy Cream",
+            "Mix with Ice"
+        ]
+    },
+    {
+        "name": "Creamsicle",
+        "ingredients": [
+            "1 oz Vodka",
+            "0.5 oz Triple Sec",
+            "1 oz Orange Juice",
+            "1 oz Heavy Cream", 
+            "Mix with Ice"
+        ]
+    },
+    {
+        "name": "Pink Lady",
+        "ingredients": [
+            "1.5 oz Gin",
+            "0.5 oz Grenadine",
+            "1 oz Heavy Cream",
+            "Mix with Ice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg"
+    },
+    {
+        "name": "Blue Carnation",
+        "ingredients": [
+            "1 oz White Creme de Cacao",
+            "1 oz Blue Curacao",
+            "1 oz Heavy Cream",
+            "Mix with Ice"
+        ]
+    },
+    {
+        "name": "Toasted Almond",
+        "ingredients": [
+            "1 oz Amaretto",
+            "1 oz Kahlua",
+            "1 oz Heavy Cream",
+            "Mix with Ice"
+        ]
+    }
+]

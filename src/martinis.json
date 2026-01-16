@@ -1,0 +1,206 @@
+[
+    {
+        "name": "Martini",
+        "ingredients": [
+            "Dash Dry Vermouth",
+            "2oz Gin or Vodka",
+            "Olive Garnish",
+            "Rock or Martini Glass"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg"
+    },
+    {
+        "name": "Dry/Extra Dry Martini",
+        "ingredients": [
+            "Few drops Dry Vermouth",
+            "2oz Gin or Vodka",
+            "Olive garnish or Lemon twist",
+            "Rock or Martini Glass"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg"
+    },
+    {
+        "name": "Bone Dry Martini",
+        "ingredients": [
+            "Tint ice with Dry Vermouth",
+            "2oz Gin or Vodka",
+            "Olive Garnish",
+            "Rock or Martini Glass"
+        ]
+    },
+    {
+        "name": "Naked Martini",
+        "ingredients": [
+            "No Vermouth",
+            "2oz Gin or Vodka",
+            "Olive Garnish",
+            "Rock or Martini Glass"
+        ]
+    },
+    {
+        "name": "In & Out Martini",
+        "ingredients": [
+            "Rinse Glass with Dry Vermouth",
+            "2oz Gin or Vodka",
+            "Olive Garnish",
+            "Rock or Martini Glass"
+        ]
+    },
+    {
+        "name": "Dirty/Extra Dirty/Filthy Martini",
+        "ingredients": [
+            "Martini",
+            "Add 1/2/3 spoons of Olive Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/vcyvpq1485083300.jpg"
+    },
+    {
+        "name": "Gibson",
+        "ingredients": [
+            "Martini",
+            "Pearl Onion Garnish"
+        ]
+    },
+    {
+        "name": "Burnt",
+        "ingredients": [
+            "Martini",
+            "Add a dash of Scotch"
+        ]
+    },
+    {
+        "name": "Reverse Martini",
+        "ingredients": [
+            "2oz Dry Vermouth",
+            "1oz Vodka or Gin",
+            "Olive Garnish"
+        ]
+    },
+    {
+        "name": "Wet Martini",
+        "ingredients": [
+            "1oz Dry Vermouth",
+            "2oz Gin or Vodka",
+            "Olive Garnish"
+        ]
+    },
+    {
+        "name": "Half & Half Martini",
+        "ingredients": [
+            "1.5oz Dry Vermoth",
+            "1.5oz Vodka or Gin",
+            "Olive Garnish"
+        ]
+    },
+    {
+        "name": "Perfect Martini",
+        "ingredients": [
+            "Dash of Dry Vermouth",
+            "Dash of Sweet Vermouth",
+            "2oz Gin or Vodka",
+            "Olive Garnish"
+        ]
+    },
+    {
+        "name": "Apple Martini",
+        "ingredients": [
+            "2oz Vodka",
+            "0.5oz Apple Pucker",
+            "Splash of Sour Mix",
+            "Cherry Garnish"
+        ]
+    }, 
+    {
+        "name": "Lemon Drop Martini",
+        "ingredients": [
+            "1oz Vodka",
+            "0.5oz Tripel Sec",
+            "2oz Sweet and Sour mix",
+            "Rim Glass with Sugar"
+        ]
+    },
+    {
+        "name": "Chocolate Martini",
+        "ingredients": [
+            "1.5oz Vodka",
+            "0.5oz Dark Creme de Cacao",
+            "Dash of Cream",
+            "Shake and Strain",
+            "Rim Glass with cocoa powder"
+        ]
+    },
+    {
+        "name": "Espresso Martini",
+        "ingredients": [
+            "1oz Vodka",
+            "1oz Espresso",
+            "0.5oz Kahlua",
+            "0.5 Simple Syrup",
+            "3 Coffee Beans"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg"
+    },
+    {
+        "name": "Manhattan",
+        "ingredients": [
+            "Dash Sweet Vermouth",
+            "2oz Whiskey",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/yk70e31606771240.jpg"
+    },
+    {
+        "name": "Dry Manhattan",
+        "ingredients": [
+            "Dash Dry Vermouth",
+            "2oz Whiskey",
+            "Lemon Twist"
+        ]
+    },
+    {
+        "name": "Perfect Manhattan",
+        "ingredients": [
+            "Dash of Sweet Vermouth",
+            "Dash of Dry Vermouth",
+            "2oz Whiskey",
+            "Lemon Twist"
+        ]
+    },
+    {
+        "name": "Rob Roy/Scotch Manhattan",
+        "ingredients": [
+            "Dash Sweet Vermouth",
+            "2oz Scotch",
+            "Cherry Garnish"
+        ]
+    },
+    {
+        "name": "Dry Rob Roy/Dry Scotch Manhattan",
+        "ingredients": [
+            "Dash of Dry Vermouth",
+            "2oz Scotch",
+            "Lemon Twist"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/typuyq1439456976.jpg"
+    },
+    {
+        "name": "Perfect Scotch Manhattan",
+        "ingredients": [
+            "Dash of Dry Vermouth",
+            "Dash of Sweet Vermouth",
+            "2oz Scotch",
+            "Lemon Twist"
+        ]
+    },
+    {
+        "name": "Cosmopolitan",
+        "ingredients": [
+            "Cocktail glass",
+            "1oz Citrus Vodka",
+            "0.5oz Triple Sec",
+            "0.5oz Lime Juice",
+            "Splash Cranberry Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg"
+    }
+]

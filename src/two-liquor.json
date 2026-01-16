@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Black Russian",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Vodka",
+            "0.5 oz Kahlua"
+        ],
+        "img" :"https://www.thecocktaildb.com/images/media/drink/8oxlqf1606772765.jpg"
+    },
+    {
+        "name": "White Russian",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Vodka",
+            "0.5 oz Kahlua",
+            "Add Cream"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg"
+    },
+    {
+        "name": "Sombrero",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Kahlua",
+            "Add Cream"
+        ]
+    },
+    {
+        "name": "Mud Slide",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Vodka",
+            "0.5 oz Kahlua",
+            "0.5 oz Baileys"
+        ]
+    },
+    {
+        "name": "Brave Bull",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Tequila",
+            "0.5 oz Kahlua"
+        ]
+    },
+    {
+        "name": "Godmother",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Vodka",
+            "0.5 oz Amaretto"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/quksqg1582582597.jpg"
+    },
+    {
+        "name": "Godfather",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Scotch",
+            "0.5 oz Amaretto"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/e5zgao1582582378.jpg"
+    },
+    {
+        "name": "Rusty Nail",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Scotch",
+            "0.5 oz Drambuie"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/yqsvtw1478252982.jpg"
+    },
+    {
+        "name": "Stinger",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Brandy",
+            "0.5 oz White Creme de Menthe"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/2ahv791504352433.jpg"
+    },
+    {
+        "name": "Vodka Gimlet",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Vodka",
+            "0.5 oz Lime Juice",
+            "Lime Wedge Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg"
+    },
+    {
+        "name": "Gin Gimlet",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Gin",
+            "0.5 oz Lime Juice",
+            "Lime Wedge Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg"
+    },
+    {
+        "name": "Kamikaze",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Vodka",
+            "0.5 oz Triple Sec",
+            "0.5 oz Lime Juice",
+            "Lime Wedge Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/d7ff7u1606855412.jpg"
+    },
+    {
+        "name": "Army Navy",
+        "ingredients": [
+            "1.5 oz Gin",
+            "0.5 oz Lime Juice",
+            "0.5 oz Simple Syrup",
+            "Dash of Angostura Bitters",
+            "Lime Wedge Garnish"
+        ]
+    },
+    {
+        "name": "Ranch Water",
+        "ingredients": [
+            "1.5 oz Tequila",
+            "0.5 oz Lime Juice",
+            "Top with Soda",
+            "Lime Wedge Garnish"
+        ]
+    }
+]

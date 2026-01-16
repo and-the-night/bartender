@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Whiskey Sour",
+        "ingredients": [
+            "1 oz Whiskey",
+            "2 oz Sour Mix",
+            "Shake and Strain",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg"
+    },
+    {
+        "name": "Midori Sour",
+        "ingredients": [
+            "1 oz Midori",
+            "2 oz Sour Mix",
+            "Shake and Strain",
+            "Cherry Garnish"
+        ]
+    },
+    {
+        "name": "Daiquiri",
+        "ingredients": [
+            "1 oz Light Rum",
+            "2 oz Sour Mix",
+            "Shake and Strain",
+            "Different fruits can be added"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg"
+    },
+    {
+        "name": "Bacardi Cocktail (Pink Daiquiri)",
+        "ingredients": [
+            "1 oz Bacardi Rum",
+            "0.5 oz Grenadine",
+            "2 oz Sour Mix",
+            "Shake and Strain",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/n433t21504348259.jpg"
+    },
+    {
+        "name": "Margarita",
+        "ingredients": [
+            "Margarita Glass",
+            "Frost with Salt",
+            "1 oz Tequila",
+            "0.5 oz Triple Sec",
+            "2 oz Sour Mix",
+            "Shake and Strain",
+            "Lime Wedge Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg"
+    },
+    {
+        "name": "Caddilac Margarita",
+        "ingredients": [
+            "Margarita Glass",
+            "Frost with Salt",
+            "1 oz Premium Tequila",
+            "0.5 oz Grand Marnier",
+            "2 oz Sour Mix",
+            "Shake and Strain",
+            "Lime Wedge Garnish"
+        ]
+    },
+    {
+        "name": "Tom Collins",
+        "ingredients": [
+            "Collins Glass with Ice",
+            "1 oz Gin",
+            "2 oz Sour Mix",
+            "Short Shake",
+            "Top with Club Soda",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg"
+    },
+    {
+        "name": "Long Island Iced Tea",
+        "ingredients": [
+            "Collins Glass with Ice",
+            "0.5 oz Vodka",
+            "0.5 oz Gin",
+            "0.5 oz Light Rum",
+            "0.5 oz Tequila",
+            "0.5 oz Triple Sec",
+            "1.5 oz Sour Mix",
+            "Short Shake",
+            "Top with Cola",
+            "Lemon Wedge Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/nkwr4c1606770558.jpg"
+    },
+    {
+        "name": "AMF",
+        "ingredients": [
+            "Collins Glass with Ice",
+            "0.5 oz Vodka",
+            "0.5 oz Gin",
+            "0.5 oz Light Rum",
+            "0.5 oz Tequila",
+            "0.5 oz Blue Curacao",
+            "1.5 oz Sour Mix",
+            "Short Shake",
+            "Top with Lemon-Lime Soda",
+            "Lemon Wedge Garnish"
+        ]
+    },
+    {
+        "name": "Sloe Gin Fizz",
+        "ingredients": [
+            "Collins Glass with Ice",
+            "1 oz Sloe Gin",
+            "2 oz Sour Mix",
+            "Short Shake",
+            "Top with Club Soda",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/d7mo481504889531.jpg"
+    },
+    {
+        "name": "Electric Lemonade",
+        "ingredients": [
+            "Collins Glass with Ice",
+            "0.75 oz Light Rum",
+            "0.75 oz Blue Curacao",
+            "2 oz Sour Mix",
+            "Short Shake",
+            "Top with Lemon-Lime Soda",
+            "Lemon Wedge Garnish"
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "name": "7&7",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Seagram's 7 Whiskey",
+            "Fill with 7-Up"
+        ]
+    },
+    {
+        "name": "Highball",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Whiskey",
+            "Fill with Ginger Ale"
+        ]
+    },
+    {
+        "name": "Call Liquor & Mix",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Call Liquor",
+            "Fill with Mixer"
+        ]
+    },
+    {
+        "name": "Rum & Coke",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Light Rum",
+            "Fill with Cola"
+        ]
+    },
+    {
+        "name": "Cuba Libre",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Light Rum",
+            "Fill with Cola"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg"
+    },
+    {
+        "name": "Gin & Tonic",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Gin",
+            "Fill with Tonic Water",
+            "Lime Wedge Garnish"
+        ]
+    },
+    {
+        "name": "Screw Driver",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill with Orange Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg"
+    },
+    {
+        "name": "Fuzzy Navel",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Peach Schnapps",
+            "Fill with Orange Juice"
+        ]
+    },
+    {
+        "name": "Greyhound",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill with Grapefruit Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/g5upn41513706732.jpg"
+    },
+    {
+        "name": "Capecode",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill with Cranberry Juice"
+        ]
+    },
+    {
+        "name": "Madras",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill with Cranberry Juice"
+        ]
+    },
+    {
+        "name": "Sea Breeze",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill half with Cranberry Juice",
+            "Fill half with Grapefruit Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg"
+    },
+    {
+        "name": "Bay Breeze",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill half with Cranberry Juice",
+            "Fill half with Pineapple Juice"
+        ]
+    },
+    {
+        "name": "Malibu Bay Breeze",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Malibu Rum",
+            "Fill half with Cranberry Juice",
+            "Fill half with Pineapple Juice"
+        ]
+    },
+    {
+        "name": "Woo Woo",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "0.5 oz Peach Schnapps",
+            "Fill with Cranberry Juice"
+        ]
+    },
+    {
+        "name": "Sex on the Beach",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "0.5 oz Peach Schnapps",
+            "Fill half with Cranberry Juice",
+            "Fill half with Orange Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/fi67641668420787.jpg"
+    }
+]
