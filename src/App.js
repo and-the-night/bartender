@@ -85,7 +85,9 @@ function App() {
               ))}
             </ul>
           )}
-          {randomDrink.img && (<img src={randomDrink.img} alt={randomDrink.name} className='drink-image'/>)}
+          {randomDrink.img && showIngredients && (
+            <img src={randomDrink.img} alt={randomDrink.name} className='drink-image'/>
+          )}
         </div>
       )}
     </div>
