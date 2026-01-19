@@ -3,6 +3,10 @@ import creamDrinks from '../src/cream-drinks.json';
 import martinis from '../src/martinis.json';
 import twoLiquor from '../src/two-liquor.json';
 import highballs1 from '../src/highballs-1.json';
+import highballs2 from '../src/highballs-2.json';
+import special from '../src/special.json';
+import liquors from '../src/liquors.json';
+import liqueurs from '../src/liqueurs.json';
 import { useState } from 'react';
 import './App.css';
 
@@ -14,7 +18,11 @@ function App() {
     'Martinis': false,
     'Sours': false,
     'Two Liquor': false,
-    'Highballs 1': false
+    'Highballs 1': false,
+    'Highballs 2': false,
+    "Special Preparation": false,
+    "Liquors": false,
+    "Liqueurs": false
   });
 
   const drinks = [];
@@ -36,6 +44,18 @@ function App() {
           break;
         case 'Highballs 1':
           drinks.push(...highballs1);
+          break;
+        case 'Highballs 2':
+          drinks.push(...highballs2);
+          break;
+        case 'Special Preparation':
+          drinks.push(...special);
+          break;
+        case 'Liquors':
+          drinks.push(...liquors);
+          break;
+        case 'Liqueurs':
+          drinks.push(...liqueurs);
           break;
         default:
           break;

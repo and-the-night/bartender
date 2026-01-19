@@ -1,0 +1,341 @@
+[
+    {
+        "name": "After Shock",
+        "ingredients": [
+            "Cinnamon Liqueur",
+            "Canada",
+            "30%"
+        ],
+        "img": "https://caskcartel.com/cdn/shop/products/71LlsyprSmL._SY445.jpg?v=1551609710&width=218"
+    },
+    {
+        "name": "Amaretto",
+        "ingredients": [
+            "Almond Liqueur",
+            "Italy",
+            "21% - 28%"
+        ],
+        "img": "https://images.liquorapps.com/wp/bg/86878-Amaretto-Di-Saronno05.webp"
+    },
+    {
+        "name": "B&B (Brandy & Benedictine) DOM",
+        "ingredients": [
+            "Herbal Liqueur",
+            "France",
+            "40%"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Benedictine_01_08.jpg"
+    },
+    {
+        "name": "Campari",
+        "ingredients": [
+            "Fruit & Herbal Liqueur",
+            "Italy",
+            "20.5% - 28.5%",
+            "Slightly Bitter flavor of Fruit"
+        ],
+        "img": "https://www.bittersandbottles.com/cdn/shop/files/campari-aperitivo-liqueur_c70c3e33-6132-4c91-810f-75ea389983fb_1280x1280.jpg?v=1705436519"
+    },
+    {
+        "name": "Chambord",
+        "ingredients": [
+            "Black Raspberry Liqueur",
+            "France",
+            "16.5%",
+            "Black Raspberries, Other Fruits, Honey"
+        ],
+        "img": "https://www.blackwellswines.com/cdn/shop/products/Chambord_Liqueur_1200x.jpg?v=1745365024"
+    },
+    {
+        "name": "Chartreuse (Green and Gold)",
+        "ingredients": [
+            "Herbal Liqueur",
+            "France",
+            "40% - 69%"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/16-09-17-WikiLovesCocktails-Flaschen-Img0136.jpg/960px-16-09-17-WikiLovesCocktails-Flaschen-Img0136.jpg"
+    },
+    {
+        "name": "Cointreau",
+        "ingredients": [
+            "Triple Sec (Orange) Liqueur",
+            "France",
+            "40%",
+            "Sweet and Bitter Orange Peels"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cointreau_original_v4.jpg/832px-Cointreau_original_v4.jpg"
+    },
+    {
+        "name": "Black Sambuca",
+        "ingredients": [
+            "Licorice Liqueur",
+            "Italy",
+            "40%"
+        ],
+        "img": "https://chipsliquor.com/cdn/shop/files/AnticaSambucaBlack.jpg?v=1711605145"
+    },
+    {
+        "name": "Drambuie",
+        "ingredients": [
+            "Scotch Liqueur with Honey and Herbs",
+            "Scotland",
+            "40%"
+        ],
+        "img": "https://www.totalwine.com/dynamic/x1000,sq/images/3660750/3660750-1-fr.png"
+    },
+    {
+        "name": "Frangelico",
+        "ingredients": [
+            "Hazelnut Liqueur with Berries and Herbs",
+            "Italy",
+            "20%"
+        ],
+        "img": "https://woodencork.com/cdn/shop/products/Frangelico-Liqueur.png?v=1685194509"
+    },
+    {
+        "name": "Goldschlager",
+        "ingredients": [
+            "Cinnamon Schnapps Liqueur with Gold Flakes",
+            "Switzerland",
+            "43.5%"
+        ],
+        "img": "https://cdn11.bigcommerce.com/s-taixn69rog/images/stencil/1280x1280/products/30036/807561/200974__66717.1637568106.jpg?c=1"
+    },
+    {
+        "name": "Grand Marnier",
+        "ingredients": [
+            "Orange Liqueur blended with Cognac",
+            "France",
+            "40%",
+            "Bitter Orange Peels"
+        ],
+        "img": "https://www.totalwine.com/dynamic/x1000,sq/images/1735750/1735750-1-fr.png"
+    },
+    {
+        "name": "Irish Mist Liqueur",
+        "ingredients": [
+            "Irish Whiskey Liqueur",
+            "Ireland",
+            "35%",
+            "Heather, Clover Honey, Herbs"
+        ],
+        "img": "https://empirewine.imgix.net/item-uuid/1299-748358CD.jpg?auto=compress&fm=jpg&fit=max&fill-color=FFFFFF&pad=20&h=600&w=600"
+    },
+    {
+        "name": "Kahlua",
+        "ingredients": [
+            "Coffee Liqueur",
+            "Mexico",
+            "20%",
+            "Coffee and Semi-Sweet Chocolate"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kahl%C3%BAa_700ml_imported_glass_bottle.jpg/1280px-Kahl%C3%BAa_700ml_imported_glass_bottle.jpg"
+    },
+    {
+        "name": "Jagermeister",
+        "ingredients": [
+            "Herbal Liqueur",
+            "Germany",
+            "35%",
+            "Citrus Nose"
+        ],
+        "img": "https://www.totalwine.com/dynamic/x1000,sq/images/2800750/2800750-1-fr.png"
+    },
+    {
+        "name": "Galliano",
+        "ingredients": [
+            "Herbal Liqueur",
+            "Italy",
+            "30%",
+            "Aromas of Roots, Herbs, Flowers and Cedar"
+        ],
+        "img": "https://jensensliquors.com/cdn/shop/files/galliano-750-new-web.png?v=1726865433"
+    },
+    {
+        "name": "Metaxa Ouzo",
+        "ingredients": [
+            "Anise Liqueur",
+            "Greece",
+            "40%",
+            "Grapes, Herbs, Berries, Anise, Licorice, Mint, Fennel, Hazelnut"
+        ],
+        "img": "https://jensensliquors.com/cdn/shop/files/ouzo-metaxa-750-new-web_1.png?v=1726865618"
+    },
+    {
+        "name": "Pernod",
+        "ingredients": [
+            "Anise Liqueur (Licorice Flavor)",
+            "France",
+            "40%",
+            "Licorice, Anise, Fennel, Other Herbs"
+        ],
+        "img": "https://www.totalwine.com/dynamic/x1000,sq/images/2854750/2854750-1-fr.png"
+    },
+    {
+        "name": "Midori",
+        "ingredients": [
+            "Honeydew Melon Liqueur",
+            "Japan",
+            "20%",
+            "Honeydew Melon"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Midori.jpg/960px-Midori.jpg"
+    },
+    {
+        "name": "Tia Maria",
+        "ingredients": [
+            "Coffee Liqueur",
+            "Jamaica",
+            "20%"
+        ],
+        "img": "https://thefallswineroom.com/cdn/shop/products/C3765A4F-F02E-412C-B79C-9B8550E952DD_1000x.jpg?v=1586292365"
+    },
+    {
+        "name": "Baileys Irish Cream",
+        "ingredients": [
+            "Irish Cream Liqueur",
+            "Ireland",
+            "17%",
+            "Blend of Real Cream and Irish Whiskey"
+        ],
+        "img": "https://www.pensacolaliquors.com/cdn/shop/files/NewProject-2023-08-08T213833.536.jpg?v=1691512513"
+    },
+    {
+        "name": "Brown Creme de Cacao",
+        "ingredients": [
+            "Chocolate Liqueur",
+            "Brown Color",
+            "USA",
+            "20% - 25%"
+        ],
+        "img": "https://www.finewineandgoodspirits.com/ccstore/v1/images/?source=/file/v8732903816267022419/products/000004582_1004723_F1.jpg&height=475&width=475"
+    },
+    {
+        "name": "White Creme de Cacao",
+        "ingredients": [
+            "Chocolate Liqueur",
+            "Clear Color",
+            "USA",
+            "24%"
+        ],
+        "img": "https://www.finewineandgoodspirits.com/ccstore/v1/images/?source=/file/v8732903816267022419/products/000004583_1004724_F1.jpg&height=475&width=475"
+    },
+    {
+        "name": "Creme de Menthe (Green and White)",
+        "ingredients": [
+            "Mint Liqueur",
+            "Green or Clear Color",
+            "USA",
+            "25%"
+        ],
+        "img": "https://cdn11.bigcommerce.com/s-0ddlsmhg83/images/stencil/640w/products/14765/15080/dekuyper-creme-de-menthe-dark-1l__47029.1752495903.1280.1280__23092.1.jpg"
+    },
+    {
+        "name": "Creme de Banana",
+        "ingredients": [
+            "Banana Liqueur",
+            "USA",
+            "17% - 25%"
+        ],
+        "img": "https://static.specsonline.com/wp-content/uploads/2020/10/008800402345.jpg"
+    },
+    {
+        "name": "Creme de Cassis",
+        "ingredients": [
+            "Black Currant Liqueur",
+            "France",
+            "15%"
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Creme_de_Cassis.jpg"
+    },
+    {
+        "name": "Peppermint Schnapps",
+        "ingredients": [
+            "Peppermint Liqueur",
+            "USA",
+            "30% - 50%"
+        ],
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECXVV00knIdwLiY7140258BdpPWLAqnIJLw&s"
+    },
+    {
+        "name": "Peach Schnapps",
+        "ingredients": [
+            "Peach Liqueur",
+            "USA",
+            "15%"
+        ],
+        "img": "https://static.specsonline.com/wp-content/uploads/2020/10/008066000034.jpg"
+    },
+    {
+        "name": "Root Beer Schnapps",
+        "ingredients": [
+            "Root Beer Liqueur",
+            "USA",
+            "20%"
+        ],
+        "img": "https://d2lnr5mha7bycj.cloudfront.net/product-image/file/large_c73fde10-3df1-4fcd-9ca9-c3d72decc2f0.jpg"
+    },
+    {
+        "name": "Butterscotch Schnapps",
+        "ingredients": [
+            "Butterscotch Liqueur",
+            "USA",
+            "15%"
+        ],
+        "img": "https://www.dekuyperusa.com/sites/default/files/2020-02/11128_DK_Website_329x834_DK_Buttershots_0.png"
+    },
+    {
+        "name": "Fire Water Cinnamon Schnapps",
+        "ingredients": [
+            "Hot Cinnamon Liqueur",
+            "USA",
+            "50%"
+        ],
+        "img": "https://www.kroger.com/product/images/xlarge/front/0008800401552"
+    },
+    {
+        "name": "Anisette",
+        "ingredients": [
+            "Anise Liqueur (Sweet)",
+            "USA",
+            "30%"
+        ],
+        "img": "https://cwspirits.com/cdn/shop/files/dekuyper-anisette-750ml-country-wine-and-spirits.png?v=1759230119"
+    },
+    {
+        "name": "Orange Curacao",
+        "ingredients": [
+            "Orange Liqueur",
+            "USA",
+            "15% - 40%"
+        ],
+        "img": "https://woodencork.com/cdn/shop/products/SeniorOrangeCuracao.jpg?v=1676018004"
+    },
+    {
+        "name": "Blue Curacao",
+        "ingredients": [
+            "Orange Liqueur (Blue Colored)",
+            "USA",
+            "15% - 40%"
+        ],
+        "img": "https://topshelfwineandspirits.com/cdn/shop/products/hiramwalker_bluecuracao__11233.1558386625.1280.1280.jpg?v=1617394804"
+    },
+    {
+        "name": "Tripel Sec",
+        "ingredients": [
+            "Orange Liqueur",
+            "USA",
+            "20% - 40%"
+        ],
+        "img": "https://www.totalwine.com/dynamic/x1000,sq/images/2126254404/2126254404-1-fr.png"
+    },
+    {
+        "name": "Southern Comfort",
+        "ingredients": [
+            "Burbon and Peach Liqueur",
+            "USA",
+            "21%, 35%, 40%, 50%"
+        ],
+        "img": "https://images.albertsons-media.com/is/image/ABS/189030617-C1N1?$ng-ecom-pdp-mobile$&defaultImage=Not_Available"
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "name": "Old Fashioned",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "Bar Spoon Sugar",
+            "Dash Angostura Bitters",
+            "1 oz Whiskey",
+            "Fill with Club Soda",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg"
+    },
+    {
+        "name": "Mojito",
+        "ingredients": [
+            "Highball Glass NO Ice",
+            "Muddle 4 Lime Wedges and Mint Leaves",
+            "1 Spoon Sugar or Simple Syrup",
+            "1 oz Light Rum",
+            "Fill with Ice",
+            "Top with Club Soda"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg"
+    },
+    {
+        "name": "Caipirinha",
+        "ingredients": [
+            "Highball Glass NO Ice",
+            "Muddle 4 Lime Wedges",
+            "1 Spoon Sugar or Simple Syrup",
+            "1 oz Cachaca",
+            "Fill with Ice",
+            "Top with Club Soda"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/jgvn7p1582484435.jpg"
+    },
+    {
+        "name": "White Wine Spritzer",
+        "ingredients": [
+            "Wine Glass with Ice",
+            "Fill half with White Wine",
+            "Fill half with Club Soda",
+            "Lemon Twist Garnish"
+        ]
+    },
+    {
+        "name": "Wine Cooler",
+        "ingredients": [
+            "Wine Glass with Ice",
+            "Fill half with Red or White Wine",
+            "Fill half with Lemon-Lime Soda",
+            "Lemon Twist Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg"
+    },
+    {
+        "name": "Kir",
+        "ingredients": [
+            "Wine or Flute Glass",
+            "Fill with White Wine",
+            "0.5 oz Creme de Cassis"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/apneom1504370294.jpg"
+    },
+    {
+        "name": "Chanpagne Cocktail",
+        "ingredients": [
+            "Champagne Flute",
+            "Sugar Cube or Spoon Sugar",
+            "Dash Angostura Bitters",
+            "Fill with Champagne",
+            "Lemon Twist Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/t5pv461606773026.jpg"
+    },
+    {
+        "name": "Mimosa",
+        "ingredients": [
+            "Champagne Flute",
+            "Fill half with Champagne",
+            "Fill half with Orange Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg"
+    },
+    {
+        "name": "Bellini",
+        "ingredients": [
+            "Champagne Flute",
+            "2 oz Peach Nectar",
+            "Fill with Champagne (preferably Prosecco)"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg"
+    },
+    {
+        "name": "Irish Coffee",
+        "ingredients": [
+            "Coffee Mug",
+            "1 oz Irish Whiskey",
+            "1 Spoon Sugar",
+            "Fill with Hot Coffee",
+            "Top with Whipped Cream",
+            "Few Drops of Green Creme de Menthe"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg"
+    },
+    {
+        "name": "Mexican Coffee",
+        "ingredients": [
+            "Coffee Mug",
+            "1 oz Kahlua",
+            "Fill with Hot Coffee",
+            "Top with Whipped Cream",
+            "Few Drops of Green Creme de Menthe"
+        ]
+    },
+    {
+        "name": "Keokee Coffee",
+        "ingredients": [
+            "Coffee Mug",
+            "0.75 oz Brandy",
+            "0.75 oz Kahlua",
+            "Fill with Hot Coffee",
+            "Bar Spoon Sugar"
+        ]
+    },
+    {
+        "name": "Jamaican Coffee",
+        "ingredients": [
+            "Coffee Mug",
+            "0.75 oz Light Rum",
+            "0.75 oz Tia Maria (Dark Coffee Liqueur)",
+            "Fill with Hot Coffee",
+            "Bar Spoon Sugar"
+        ]
+    },
+    {
+        "name": "Shirley Temple",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "0.5 oz Grenadine",
+            "Fill with Lemon-Lime Soda",
+            "Cherry Garnish"
+        ]
+    },
+    {
+        "name": "Mickey Mouse",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "0.5 oz Grenadine",
+            "Fill with Cola",
+            "Cherry Garnish"
+        ]
+    }
+]

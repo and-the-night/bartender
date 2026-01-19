@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Tequila Sunrise",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Tequila",
+            "Fill with Orange Juice",
+            "Top with Grenadine",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg"
+    },
+    {
+        "name": "Slow Comfortable Screw",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "0.75 oz Sloe Gin",
+            "0.75 oz Southern Comfort",
+            "Fill with Orange Juice"
+        ]
+    },
+    {
+        "name": "Alabama Slammer",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "0.5 oz Sloe Gin",
+            "0.5 oz Southern Comfort",
+            "0.5 oz Amaretto",
+            "Fill with Orange Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/jntghf1606771886.jpg"
+    },
+    {
+        "name": "Bloody Mary",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill with Bloody Mary Mix",
+            "Lime or Celery Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg"
+    },
+    {
+        "name": "Red Devil",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "0.5 oz Lime Juice",
+            "0.5 oz Vodka",
+            "0.5 oz Sloe Gin",
+            "0.5 oz Southern Comfort",
+            "0.5 oz Amaretto",
+            "0.5 oz Tripel Sec",
+            "Fill with Orange Juice"
+        ]
+    },
+    {
+        "name": "Mai Tai",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Light Rum",
+            "0.5 oz Amaretto",
+            "0.5 oz Triple Sec",
+            "Fill half with Orange Juice",
+            "Fill half with Pineapple Juice",
+            "Dash Grenadine",
+            "Dash Dark Rum",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg"
+    },
+    {
+        "name": "Rum Punch (Rum Runner)",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Light Rum",
+            "0.5 oz Tripel Sec",
+            "0.5 oz Grenadine",
+            "Fill half with Orange Juice",
+            "Fill half with Pineapple Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/wyrsxu1441554538.jpg"
+    },
+    {
+        "name": "Planter's Punch",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Dark Rum",
+            "0.5 oz Triple Sec",
+            "0.5 oz Grenadine",
+            "0.5 oz Sour Mix",
+            "Fill half with Orange Juice",
+            "Fill half with Pineapple Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/jn6o251643844541.jpg"
+    },
+    {
+        "name": "Zombie",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "0.5 oz Light Rum",
+            "0.5 oz Dark Rum",
+            "0.5 Creme de Almond",
+            "0.5 oz Triple Sec",
+            "Fill half with Orange Juice",
+            "Fill half with Pineapple Juice",
+            "Dash 151 Rum",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/2en3jk1509557725.jpg"
+    },
+    {
+        "name": "007",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Orange Vodka",
+            "Fill half with Orange Juice",
+            "Fill half with Lemon-Lime Soda"
+        ]
+    },
+    {
+        "name": "Pina Colada",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Light Rum",
+            "2 oz Pineapple Juice",
+            "2 oz Pina Colada Mix (Pineapple Cream)",
+            "Shake and Strain",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/upgsue1668419912.jpg"
+    },
+    {
+        "name": "Bahama Mama",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "0.5 oz Light Rum",
+            "0.5 Dark Rum",
+            "0.5 Peach Schnapps",
+            "Fill half with Orange Juice",
+            "Fill half with Cranberry Juice",
+            "Cherry Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/tyb4a41515793339.jpg"
+    }
+]
