@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Cosmopolitan",
+        "ingredients": [
+            "Cocktail glass",
+            "1oz Citrus Vodka",
+            "0.5oz Triple Sec",
+            "0.5oz Lime Juice",
+            "Splash Cranberry Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/kpsajh1504368362.jpg"
+    },
+        {
+        "name": "Apple Martini",
+        "ingredients": [
+            "2oz Vodka",
+            "0.5oz Apple Pucker",
+            "Splash of Sour Mix",
+            "Cherry Garnish"
+        ]
+    }, 
+    {
+        "name": "Lemon Drop Martini",
+        "ingredients": [
+            "1oz Vodka",
+            "0.5oz Tripel Sec",
+            "2oz Sweet and Sour mix",
+            "Rim Glass with Sugar"
+        ]
+    },
+    {
+        "name": "Chocolate Martini",
+        "ingredients": [
+            "1.5oz Vodka",
+            "0.5oz Dark Creme de Cacao",
+            "Dash of Cream",
+            "Shake and Strain",
+            "Rim Glass with cocoa powder"
+        ]
+    },
+    {
+        "name": "Espresso Martini",
+        "ingredients": [
+            "1oz Vodka",
+            "1oz Espresso",
+            "0.5oz Kahlua",
+            "0.5 Simple Syrup",
+            "3 Coffee Beans"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg"
+    },
+{
+        "name": "Electric Lemonade",
+        "ingredients": [
+            "Collins Glass with Ice",
+            "0.75 oz Light Rum",
+            "0.75 oz Blue Curacao",
+            "2 oz Sour Mix",
+            "Short Shake",
+            "Top with Lemon-Lime Soda",
+            "Lemon Wedge Garnish"
+        ]
+    },
+    {
+        "name": "Sombrero",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Kahlua",
+            "Add Cream"
+        ]
+    },
+    {
+        "name": "Mud Slide",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Vodka",
+            "0.5 oz Kahlua",
+            "0.5 oz Baileys"
+        ]
+    },
+    {
+        "name": "Kamikaze",
+        "ingredients": [
+            "Rock Glass with Ice",
+            "1.5 oz Vodka",
+            "0.5 oz Triple Sec",
+            "0.5 oz Lime Juice",
+            "Lime Wedge Garnish"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/d7ff7u1606855412.jpg"
+    }
+]

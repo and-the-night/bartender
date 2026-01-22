@@ -7,6 +7,7 @@ import highballs2 from '../src/highballs-2.json';
 import special from '../src/special.json';
 import liquors from '../src/liquors.json';
 import liqueurs from '../src/liqueurs.json';
+import reviews from '../src/review.json';
 import { useState } from 'react';
 import './App.css';
 
@@ -22,7 +23,8 @@ function App() {
     'Highballs 2': false,
     "Special Preparation": false,
     "Liquors": false,
-    "Liqueurs": false
+    "Liqueurs": false,
+    "Review": false
   });
 
   const drinks = [];
@@ -56,6 +58,9 @@ function App() {
           break;
         case 'Liqueurs':
           drinks.push(...liqueurs);
+          break;
+        case 'Review':
+          drinks.push(...reviews);
           break;
         default:
           break;
