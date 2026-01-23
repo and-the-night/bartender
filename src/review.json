@@ -88,5 +88,42 @@
             "Lime Wedge Garnish"
         ],
         "img": "https://www.thecocktaildb.com/images/media/drink/d7ff7u1606855412.jpg"
+    },
+    {
+        "name": "Madras",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill with Cranberry Juice",
+            "Fill with Orange Juice"
+        ]
+    },
+    {
+        "name": "Sea Breeze",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill half with Cranberry Juice",
+            "Fill half with Grapefruit Juice"
+        ],
+        "img": "https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg"
+    },
+    {
+        "name": "Bay Breeze",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Vodka",
+            "Fill half with Cranberry Juice",
+            "Fill half with Pineapple Juice"
+        ]
+    },
+    {
+        "name": "Malibu Bay Breeze",
+        "ingredients": [
+            "Highball Glass with Ice",
+            "1 oz Malibu Rum",
+            "Fill half with Cranberry Juice",
+            "Fill half with Pineapple Juice"
+        ]
     }
 ]

@@ -12,7 +12,8 @@ import { useState } from 'react';
 import './App.css';
 
 function App() {
-  const [randomDrink, setRandomDrink] = useState(null);
+  const [randomDrink1, setRandomDrink1] = useState(null);
+  const [randomDrink2, setRandomDrink2] = useState(null);
   const [showIngredients, setShowIngredients] = useState(false);
   const [selectedCategories, setSelectedCategories] = useState({
     'Cream Drinks': false,
@@ -69,8 +70,19 @@ function App() {
   });
 
   const getRandomDrink = () => {
+    getRandomDrink1();
+    getRandomDrink2();
+  };
+
+  const getRandomDrink1 = () => {
     const randomIndex = Math.floor(Math.random() * drinks.length);
-    setRandomDrink(drinks[randomIndex]);
+    setRandomDrink1(drinks[randomIndex]);
+    setShowIngredients(false);
+  };
+
+  const getRandomDrink2 = () => {
+    const randomIndex = Math.floor(Math.random() * drinks.length);
+    setRandomDrink2(drinks[randomIndex]);
     setShowIngredients(false);
   };
 
@@ -100,18 +112,34 @@ function App() {
           {showIngredients ? 'Hide Ingredients' : 'Show Ingredients'}
         </button>
       </div>
-      {randomDrink && (
+      {randomDrink1 && (
         <div>
-          <h2>{randomDrink.name}</h2>
+          <h2>{randomDrink1.name}</h2>
           {showIngredients && (
             <ul>
-              {randomDrink.ingredients.map((ingredient, index) => (
+              {randomDrink1.ingredients.map((ingredient, index) => (
                 <li key={index}>{ingredient}</li>
               ))}
             </ul>
           )}
-          {randomDrink.img && showIngredients && (
-            <img src={randomDrink.img} alt={randomDrink.name} className='drink-image'/>
+          {randomDrink1.img && showIngredients && (
+            <img src={randomDrink1.img} alt={randomDrink1.name} className='drink-image'/>
+          )}
+        </div>
+      )}
+
+      {randomDrink2 && (
+        <div>
+          <h2>{randomDrink2.name}</h2>
+          {showIngredients && (
+            <ul>
+              {randomDrink2.ingredients.map((ingredient, index) => (
+                <li key={index}>{ingredient}</li>
+              ))}
+            </ul>
+          )}
+          {randomDrink2.img && showIngredients && (
+            <img src={randomDrink2.img} alt={randomDrink2.name} className='drink-image'/>
           )}
         </div>
       )}
